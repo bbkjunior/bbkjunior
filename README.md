@@ -1,4 +1,13 @@
-### Hi there 👋
+
+Hello! 
+
+My name is Nikolay Babakov. I am a PhD student at Skolkovo Institute of Science and Technology.
+
+I am interested in NLP and everything about it. My recent research was dedicated to toxicity detection and text style transfer.
+
+You may reach me in telegram [@bbkjunior](https://t.me/YallenGusev).
+
+
 
 <!--
 **bbkjunior/bbkjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

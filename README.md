@@ -1,9 +1,10 @@
 
 Hello! 
 
-My name is Nikolay Babakov. I am a PhD student at Skolkovo Institute of Science and Technology.
+My name is Nikolay Babakov. I am a PhD student at University of Santiago de Compostelo.
 
-I am interested in NLP and everything about it. My recent research was dedicated to toxicity detection and text style transfer.
+I am interested in NLP and everything about it. My current research is Natural Lnaguage Generation for Bayesian Networks reasoning.
+My recent research was dedicated to toxicity detection and text style transfer.
 
 You may reach me in telegram [@bbkjunior](https://t.me/YallenGusev).
 

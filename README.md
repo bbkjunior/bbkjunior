@@ -27,7 +27,10 @@ Competitions:
 - 
 - Second place (team nigula) at [GenChall2022](https://fcg.sharedtask.org/results/) - task dedicated to generating feedback to the English phrases containing errors.
 
-
+Links
+-
+- [Google Scholar](https://scholar.google.com/citations?user=y9Ju0gcAAAAJ&hl=en&oi=ao)
+- [Orcid](https://orcid.org/my-orcid?orcid=0000-0002-2568-6702)
 
 
 <!--

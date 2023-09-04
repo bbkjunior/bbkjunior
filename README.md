@@ -1,18 +1,17 @@
 
 Hello! 
 
-My name is Nikolay Babakov. I am a PhD student at University of Santiago de Compostelo.
+My name is Nikolay Babakov. I am a Ph.D. student at the University of Santiago de Compostela.
 
-I am interested in NLP and everything about it. My current research is Natural Lnaguage Generation for Bayesian Networks reasoning.
+I am interested in NLP and everything about it. My current research is Natural Language Generation for Bayesian Networks reasoning.
 My recent research was dedicated to toxicity detection and text style transfer.
 
 You may reach me in telegram [@bbkjunior](https://t.me/bbkjunior) or via email: bbkhse@gmail.com or nikolay.babakov@usc.es
 
-Articles:
--
-- [Detecting Inappropriate Messages on Sensitive Topics that Could Harm a Company's Reputation](https://aclanthology.org/2021.bsnlp-1.4/)
-- [A large-scale computational study of content preservation measures for text style transfer and paraphrase generation](https://aclanthology.org/2022.acl-srw.23/)
-- [Studying the role of named entities for content preservation in text style transfer](https://arxiv.org/pdf/2206.09676.pdf)
+**My papers:**
+- [Google Scholar](https://scholar.google.com/citations?user=y9Ju0gcAAAAJ&hl=en&oi=ao)
+- [Orcid](https://orcid.org/my-orcid?orcid=0000-0002-2568-6702)
+
 
 Models you may like:
 -
@@ -21,6 +20,8 @@ Models you may like:
 - [Mutual Implication Score](https://huggingface.co/SkolkovoInstitute/Mutual_Implication_Score) - symmetric measure of text semantic similarity based on a RoBERTA model pretrained for natural language inference and fine-tuned on a paraphrase detection dataset
 - [GenChal_2022_nigula](https://huggingface.co/SkolkovoInstitute/GenChal_2022_nigula) - the model gets the English text with the error and the exact span of the error and should return the comment in natural language, which explains the nature of the error.
 - [LEWIP-informal](https://huggingface.co/SkolkovoInstitute/LEWIP-informal) - model designed to transfer formal text into informal keeping the important slots from the source text. The slots can be either pre-defined or detected automatically.
+- [mdistilbert-formality-ranker](https://huggingface.co/s-nlp/mdistilbert-base-formality-ranker) - multilingual classifier of textual formality
+- [deberta-large-formality-ranker](https://huggingface.co/s-nlp/deberta-large-formality-ranker) -  English classifier of textual formality
 
 
 Competitions:
@@ -28,9 +29,6 @@ Competitions:
 - Second place (team nigula) at [GenChall2022](https://fcg.sharedtask.org/results/) - task dedicated to generating feedback to the English phrases containing errors.
 
 Links
--
-- [Google Scholar](https://scholar.google.com/citations?user=y9Ju0gcAAAAJ&hl=en&oi=ao)
-- [Orcid](https://orcid.org/my-orcid?orcid=0000-0002-2568-6702)
 
 
 <!--

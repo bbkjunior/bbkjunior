@@ -1,9 +1,9 @@
 
 Hello! 
 
-My name is Nikolay Babakov. I am a Ph.D. student at the University of Santiago de Compostela.
+My name is Nikolay Babakov. I am a [Ph.D. student at the University of Santiago de Compostela](https://nl4xai.eu/people/esr2/).
 
-I am interested in NLP and everything about it. My current research is Natural Language Generation for Bayesian Networks reasoning.
+I am interested in NLP and explainable AI. My current research is Natural Language Generation for Bayesian Networks reasoning explanation.
 My recent research was dedicated to toxicity detection and text style transfer.
 
 You may reach me in telegram [@bbkjunior](https://t.me/bbkjunior) or via email: bbkhse@gmail.com or nikolay.babakov@usc.es

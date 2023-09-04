@@ -8,7 +8,7 @@ My recent research was dedicated to toxicity detection and text style transfer.
 
 You may reach me in telegram [@bbkjunior](https://t.me/bbkjunior) or via email: bbkhse@gmail.com or nikolay.babakov@usc.es
 
-**My papers:**
+## My papers:
 - [Google Scholar](https://scholar.google.com/citations?user=y9Ju0gcAAAAJ&hl=en&oi=ao)
 - [Orcid](https://orcid.org/my-orcid?orcid=0000-0002-2568-6702)
 

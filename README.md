@@ -13,7 +13,7 @@ You may reach me in telegram [@bbkjunior](https://t.me/bbkjunior) or via email: 
 - [Orcid](https://orcid.org/my-orcid?orcid=0000-0002-2568-6702)
 
 
-Models you may like:
+## Models you may like:
 -
 - [Russian Sensitive Topics Classifier](https://huggingface.co/apanc/russian-sensitive-topics) - model for detecting flammabel/senstitve topics (e.g. racism, drugs, terrorism, etc.)
 - [Russian Inappropriate Utterances Classifier](https://huggingface.co/apanc/russian-inappropriate-messages) - model for detecting nontoxic but still inappropriate messages 
@@ -24,11 +24,9 @@ Models you may like:
 - [deberta-large-formality-ranker](https://huggingface.co/s-nlp/deberta-large-formality-ranker) -  English classifier of textual formality
 
 
-Competitions:
-- 
-- Second place (team nigula) at [GenChall2022](https://fcg.sharedtask.org/results/) - task dedicated to generating feedback to the English phrases containing errors.
+## Competitions:
 
-Links
+- Second place (team nigula) at [GenChall2022](https://fcg.sharedtask.org/results/) - task dedicated to generating feedback to the English phrases containing errors.
 
 
 <!--

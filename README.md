@@ -14,7 +14,7 @@ You may reach me in telegram [@bbkjunior](https://t.me/bbkjunior) or via email: 
 
 
 ## Models you may like:
--
+
 - [Russian Sensitive Topics Classifier](https://huggingface.co/apanc/russian-sensitive-topics) - model for detecting flammabel/senstitve topics (e.g. racism, drugs, terrorism, etc.)
 - [Russian Inappropriate Utterances Classifier](https://huggingface.co/apanc/russian-inappropriate-messages) - model for detecting nontoxic but still inappropriate messages 
 - [Mutual Implication Score](https://huggingface.co/SkolkovoInstitute/Mutual_Implication_Score) - symmetric measure of text semantic similarity based on a RoBERTA model pretrained for natural language inference and fine-tuned on a paraphrase detection dataset
